@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Azhary</h1>
-<h3 align="center">A Computer&Communication undergraduate Engineering student</h3>
+<h3 align="center">An undergraduate Computer & Communication Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen-azhary&label=Profile%20views&color=0e75b6&style=flat" alt="mazen-azhary" /> </p>
 
