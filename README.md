@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen-azhary" alt="mazen-azhary" /></a> </p>
 
-- 📄 Know about my experiences [https://flowcv.com/resume/b0vasvff1d](https://flowcv.com/resume/b0vasvff1d)
+- 📄 Know about my experiences : [https://flowcv.com/resume/b0vasvff1d](https://flowcv.com/resume/b0vasvff1d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
