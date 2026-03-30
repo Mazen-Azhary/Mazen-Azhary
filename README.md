@@ -2,7 +2,7 @@
 
 ### Undergraduate Computer & Communication Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mazen-Azhary&label=Profile%20views&color=0e75b6&style=flat) ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%93-2ea44f?style=flat) ![Competitive Programmer](https://img.shields.io/badge/%E2%9A%A1-Competitive%20Programmer-a371f7?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Mazen-Azhary&label=Profile%20views&color=0e75b6&style=flat) ![Competitive Programmer](https://img.shields.io/badge/%E2%9A%A1-Competitive%20Programmer-a371f7?style=flat)
 
 ---
 
